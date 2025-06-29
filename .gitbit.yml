@@ -1,0 +1,41 @@
+# .gitbit.yml
+
+# --- Smart Tagging Configuration ---
+# Map labels to keywords. The bot will suggest a label if an issue's
+# title or body contains any of the associated keywords.
+tag_keywords:
+  bug:
+    - error
+    - exception
+    - traceback
+    - panic
+    - crash
+    - fail
+  documentation:
+    - docs
+    - readme
+    - help
+    - example
+    - tutorial
+  feature-request:
+    - feature
+    - enhance
+    - improvement
+    - idea
+  question:
+    - how to
+    - what is
+    - why
+
+# --- Assignee Recommendation Configuration ---
+# The number of recently closed issues to scan to build an expertise profile.
+# A higher number is more accurate but slower.
+assignee_rec:
+  max_issues_to_scan: 100
+
+# --- Issue Linking Configuration ---
+# The similarity score required to consider an issue "related".
+# Value should be between 0.0 and 1.0. Higher is more strict.
+# A good starting point is 0.7.
+issue_linking:
+  similarity_threshold: 0.7
