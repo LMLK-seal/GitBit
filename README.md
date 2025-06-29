@@ -1,7 +1,7 @@
 # GitBit 🤖
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/LMLK-seal/GitBit/main/assets/gitbit-logo.png" alt="GitBit Logo" width="200"/>
+  
   
   **Intelligent Issue Management Bot for GitHub**
   
