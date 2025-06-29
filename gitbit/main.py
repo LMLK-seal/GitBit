@@ -3,7 +3,7 @@
 import os
 import json
 from github import Github
-from bot import GitBitBot
+from .bot import GitBitBot
 
 def main():
     """
