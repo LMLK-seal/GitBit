@@ -295,7 +295,7 @@ Need help? Here are your options:
 
 <div align="center">
   
-**If GitRocket helped streamline your workflow, consider giving us a ⭐!**
+**If GitBit helped streamline your workflow, consider giving us a ⭐!**
 
 *Made with 🤖 by developers, for developers*
 
